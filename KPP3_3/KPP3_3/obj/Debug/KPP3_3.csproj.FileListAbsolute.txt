@@ -1,0 +1,10 @@
+D:\Project\Project C#\KPP3_3\KPP3_3\bin\Debug\KPP3_3.exe.config
+D:\Project\Project C#\KPP3_3\KPP3_3\bin\Debug\KPP3_3.exe
+D:\Project\Project C#\KPP3_3\KPP3_3\bin\Debug\KPP3_3.pdb
+D:\Project\Project C#\KPP3_3\KPP3_3\obj\Debug\KPP3_3.csproj.AssemblyReference.cache
+D:\Project\Project C#\KPP3_3\KPP3_3\obj\Debug\KPP3_3.Form1.resources
+D:\Project\Project C#\KPP3_3\KPP3_3\obj\Debug\KPP3_3.Properties.Resources.resources
+D:\Project\Project C#\KPP3_3\KPP3_3\obj\Debug\KPP3_3.csproj.GenerateResource.cache
+D:\Project\Project C#\KPP3_3\KPP3_3\obj\Debug\KPP3_3.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\KPP3_3\KPP3_3\obj\Debug\KPP3_3.exe
+D:\Project\Project C#\KPP3_3\KPP3_3\obj\Debug\KPP3_3.pdb
